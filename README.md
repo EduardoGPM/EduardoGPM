@@ -1,5 +1,5 @@
 ###
-<p align="center"> <img height="250" src="https://github.com/EduardoGPM/EduardoGPM/blob/main/Data%20Analytics%20(2).png" /> </p>
+<p align="center"> <img height="250" src="https://github.com/EduardoGPM/EduardoGPM/blob/main/Data%20Analytics%20(3).png" /> </p>
 
 # Sobre
 Olá, seja bem-vindo (a)!
